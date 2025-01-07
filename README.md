@@ -3,6 +3,6 @@ It is a simple image slider built with **HTML**, **CSS**, and **JavaScript**. Th
 
 ## Preview
 
-[Live Version]()  
+Test the live version [here](https://047hashim.github.io/image-slider/)  
 ![Screenshot of Image Slider](./images-source/slider-screenshot.png)
 
